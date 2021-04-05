@@ -1,2 +1,2 @@
 # GeeBeeGame_HTML
-A GeeBee Game in HTML5.
+A physical-collision GeeBee Game in HTML5.
